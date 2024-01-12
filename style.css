@@ -118,7 +118,7 @@ font-weight: 600;
 
 
 .maintablecontainer{
-    table-layout:fixed;
+    table-layout:auto;
     margin: auto;
     justify-content: center;
     width: 85%;
